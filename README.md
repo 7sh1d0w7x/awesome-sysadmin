@@ -669,6 +669,7 @@ Time synchronization servers and clients (NTP, PTP, Roughtime).
 Troubleshooting tools.
 
 - [grml](https://grml.org) - Bootable Debian Live CD with powerful CLI tools. ([Source Code](https://github.com/grml/)) `GPL-3.0` `Shell`
+- [Linux Doctor](https://github.com/7sh1d0w7x/linux-doctor) - Read-only health checks for a Linux machine: every finding explained, with the exact command that fixes it. `GPL-3.0` `JavaScript`
 - [mitmproxy](https://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. ([Source Code](https://github.com/mitmproxy/mitmproxy)) `MIT` `Python`
 - [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping. ([Source Code](https://github.com/traviscross/mtr)) `GPL-2.0` `C`
 - [Sysdig](https://www.sysdig.com/) - Capture system state and activity from a running Linux instance, then save, filter and analyze. ([Source Code](https://github.com/draios/sysdig)) `Apache-2.0` `Docker/Lua/C`
